@@ -1,4 +1,3 @@
-```php
 <?php
 
 $videos = [
@@ -225,4 +224,3 @@ body{
 
 </body>
 </html>
-```
